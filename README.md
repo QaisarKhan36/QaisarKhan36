@@ -3,12 +3,6 @@
 
 As a full stack website developer, I possess the unique ability to blend creativity and technical expertise, crafting captivating online experiences. From visually stunning user interfaces to robust back-end systems, I bring digital visions to life with seamless integration. With a relentless commitment to staying ahead of trends, I deliver exceptional performance and efficiency.I use the latest softwares and languages to provide the best optimized websites.
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15988
-Fork on GitHub
-4424
 
 back to edit
 
