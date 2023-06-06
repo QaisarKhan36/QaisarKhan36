@@ -4,15 +4,6 @@
 As a full stack website developer, I possess the unique ability to blend creativity and technical expertise, crafting captivating online experiences. From visually stunning user interfaces to robust back-end systems, I bring digital visions to life with seamless integration. With a relentless commitment to staying ahead of trends, I deliver exceptional performance and efficiency.I use the latest softwares and languages to provide the best optimized websites.
 
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Qaisar Khan</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
@@ -38,7 +29,7 @@ preview
 <a href="https://instagram.com/q_a_i_s_a_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="q_a_i_s_a_r_" height="30" width="40" /></a>
 <a href="https://dribbble.com/QaisarCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="qaisarcoder" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/toptrendtalks1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toptrendtalks1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/qaisar_khan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qaisar_khan_1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Qaisar_khan_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qaisar_khan_1" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/QaisarCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="QaisarCoder" height="30" width="40" /></a>
 </p>
 
