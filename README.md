@@ -6,7 +6,7 @@ As a full stack website developer, I possess the unique ability to blend creativ
 
 <h1 align="center">Hi 👋, I'm Qaisar Khan</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-<img align ="left" alt = "Banner" width ="900" style.padding-bottom ="20" src = "https://media.licdn.com/dms/image/D4D16AQFSok0Hd_MdTg/profile-displaybackgroundimage-shrink_350_1400/0/1686123528512?e=1691625600&v=beta&t=2zIBbO0K6qUs4zztL9ojomMbjmSj13trfLY-a8d4f8A">
+<img align ="left" alt = "Banner" width ="900" style = "padding-bottom: 20px;" src = "https://media.licdn.com/dms/image/D4D16AQFSok0Hd_MdTg/profile-displaybackgroundimage-shrink_350_1400/0/1686123528512?e=1691625600&v=beta&t=2zIBbO0K6qUs4zztL9ojomMbjmSj13trfLY-a8d4f8A">
 <img align="left" alt="Coding" width="45%"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 <img align="right" alt="Coding" width="45%" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
