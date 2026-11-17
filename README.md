@@ -1,50 +1,37 @@
-🤴 CodoPhobia Guy 🤴
-**`Full Stack Developer`**
+## Hi, I'm Qaisar
 
-As a full stack website developer, I possess the unique ability to blend creativity and technical expertise, crafting captivating online experiences. From visually stunning user interfaces to robust back-end systems, I bring digital visions to life with seamless integration. With a relentless commitment to staying ahead of trends, I deliver exceptional performance and efficiency.I use the latest softwares and languages to provide the best optimized websites.
+I'm doing my Master's in Computer Science at UT Arlington. I'm mostly into backend and cloud work, and right now I'm looking for a Summer 2027 internship as a backend or cloud engineer.
 
+Before grad school I spent about 4 years building websites and automation tools for clients, mostly MERN apps and Python/Selenium scripts for Amazon sellers. I also worked as a full-stack developer at Devsinc and did a frontend internship at Internee.pk.
 
-<h1 align="center">Hi 👋, I'm Qaisar Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from Dallas,Texas</h3>
-<img align="left" alt="Coding" width="45%"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
-<img align="right" alt="Coding" width="45%" 
-src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+### Some things I've built
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisarkhan36&label=Profile%20views&color=0e75b6&style=flat" alt="qaisarkhan36" /> </p>
+- **[Amazon Arbitrage Automation](https://github.com/QaisarKhan36/amazon-arbitrage-automation)**: Python and Selenium scripts I wrote for Amazon sellers. They find profitable products, check if the seller is allowed to list them, and take orders all the way from import to shipping label. They ran in real stores every day.
+- **[Quotsy](https://github.com/QaisarKhan36/quotsy)**: an invoice and quote app for tradespeople like cleaners, plumbers and landscapers. You make a quote on your phone in about 30 seconds and send it as a PDF. Built with Expo (React Native). [Website](https://qaisarkhan36.github.io/quotsy/)
+- **[SolCacao](https://github.com/QaisarKhan36/SolCacao)**: a group project for my Web Data Management class. It's a bilingual store for a chocolate brand with retail and wholesale ordering. I built the B2B/contact pages, localization and reports on the frontend, and I'm working on the backend (Node, Express, MySQL).
+- **[Smart Energy Monitoring](https://github.com/QaisarKhan36/SmartEnergyMonitoring-ControlSystemUsingIOT)**: a MERN app to monitor and control the power usage of devices, with live readings, alert rules, schedules and usage analytics.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qaisarkhan36" alt="qaisarkhan36" /></a> </p>
+I also write trading bots in MQL5 for MetaTrader 5, mostly for backtesting and research on EURUSD and gold.
 
-<p align="left"> <a href="https://twitter.com/qaisark16742122" target="blank"><img src="https://img.shields.io/twitter/follow/qaisark16742122?logo=twitter&style=for-the-badge" alt="qaisark16742122" /></a> </p>
+### What I'm doing right now
 
+- Taking Distributed Systems and Cloud Computing this semester
+- Practicing LeetCode in Python
+- Next project: a backtest analysis platform for MT5 results (Python, FastAPI, AWS)
 
-- 👯 I’m looking to collaborate on *Full Stack Web Developement*
+### Tech
 
-- 💬 Ask me about *React, Bootstrap, Mongo-Db, Python, Django, Express, Html, Css, Javascript, Next, Three js, node js*
+![Tech](https://skillicons.dev/icons?i=python,js,cpp,nodejs,express,react,html,css,bootstrap,mongodb,mysql,git)
 
-- 📫 How to reach me *toptrendtalks1@gmail.com*
+- **Languages:** Python, JavaScript, C++, SQL, MQL5
+- **Backend:** Node.js, Express, REST APIs, JWT auth
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Databases:** MongoDB, MySQL
+- **Automation:** Selenium, BeautifulSoup
+- **Learning now:** AWS, Docker, FastAPI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/qaisar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qaisar100" height="30" width="40" /></a>
-<a href="https://twitter.com/qaisark16742122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qaisark16742122" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/qaisar-khan-425aa624b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qaisar khan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21446119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21446119" height="30" width="40" /></a>
-<a href="https://kaggle.com/QaisarCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="qaisarcoder" height="30" width="40" /></a>
-<a href="https://instagram.com/q_a_i_s_a_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="q_a_i_s_a_r_" height="30" width="40" /></a>
-<a href="https://dribbble.com/QaisarCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="qaisarcoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/toptrendtalks1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toptrendtalks1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Qaisar_khan_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qaisar_khan_1" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/QaisarCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="QaisarCoder" height="30" width="40" /></a>
-</p>
+### Reach me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/QaisarCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="QaisarCoder" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaisarkhan36&show_icons=true&locale=en&layout=compact" alt="qaisarkhan36" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaisarkhan36&show_icons=true&locale=en" alt="qaisarkhan36" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaisarkhan36&" alt="qaisarkhan36" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaisar-khan-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qxk6475@mavs.uta.edu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Qaisar_khan_1/)
