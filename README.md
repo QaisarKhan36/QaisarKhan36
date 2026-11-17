@@ -2,7 +2,7 @@
 
 I'm doing my Master's in Computer Science at UT Arlington. I'm mostly into backend and cloud work, and right now I'm looking for a Summer 2027 internship as a backend or cloud engineer.
 
-Before grad school I spent about 4 years building websites and automation tools for clients, mostly MERN apps and Python/Selenium scripts for Amazon sellers. I also worked as a full-stack developer at Devsinc and did a frontend internship at Internee.pk.
+Before grad school I spent about 4 years building websites and automation tools for clients, mostly MERN apps and Python/Selenium scripts for Amazon sellers. I also worked as a full-stack developer at MindGigs in Peshawar.
 
 ### Some things I've built
 
