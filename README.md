@@ -1,6 +1,6 @@
 ## Hi, I'm Qaisar
 
-I'm doing my Master's in Computer Science at UT Arlington. I'm mostly into backend and cloud work, and right now I'm looking for a Summer 2027 internship as a backend or cloud engineer.
+I'm doing my Master's in Computer Science at UT Arlington. I'm mostly into backend and cloud work.
 
 Before grad school I spent about 4 years building websites and automation tools for clients, mostly MERN apps and Python/Selenium scripts for Amazon sellers. I also worked as a full-stack developer at MindGigs in Peshawar.
 
@@ -8,16 +8,15 @@ Before grad school I spent about 4 years building websites and automation tools 
 
 - **[Amazon Arbitrage Automation](https://github.com/QaisarKhan36/amazon-arbitrage-automation)**: Python and Selenium scripts I wrote for Amazon sellers. They find profitable products, check if the seller is allowed to list them, and take orders all the way from import to shipping label. They ran in real stores every day.
 - **[Quotsy](https://github.com/QaisarKhan36/quotsy)**: an invoice and quote app for tradespeople like cleaners, plumbers and landscapers. You make a quote on your phone in about 30 seconds and send it as a PDF. Built with Expo (React Native). [Website](https://qaisarkhan36.github.io/quotsy/)
-- **[SolCacao](https://github.com/QaisarKhan36/SolCacao)**: a group project for my Web Data Management class. It's a bilingual store for a chocolate brand with retail and wholesale ordering. I built the B2B/contact pages, localization and reports on the frontend, and I'm working on the backend (Node, Express, MySQL).
+- **[SolCacao](https://github.com/QaisarKhan36/SolCacao)**: a group project for my Web Data Management class. It's a bilingual store for a chocolate brand with retail and wholesale ordering. I built the B2B/contact pages, localization and reports on the frontend, and worked on the backend (Node, Express, MySQL).
 - **[Smart Energy Monitoring](https://github.com/QaisarKhan36/SmartEnergyMonitoring-ControlSystemUsingIOT)**: a MERN app to monitor and control the power usage of devices, with live readings, alert rules, schedules and usage analytics.
 
 I also write trading bots in MQL5 for MetaTrader 5, mostly for backtesting and research on EURUSD and gold.
 
-### What I'm doing right now
+### What I'm working on
 
-- Taking Distributed Systems and Cloud Computing this semester
 - Practicing LeetCode in Python
-- Next project: a backtest analysis platform for MT5 results (Python, FastAPI, AWS)
+- A backtest analysis platform for MT5 results (Python, FastAPI, AWS)
 
 ### Tech
 
